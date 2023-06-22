@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsCompose</string>
+    <string name="photo">Photo</string>
+    <string name="search">Search News</string>
+    <string name="about_page">About Page</string>
+    <string name="student_name">Fani Aghistiya Lestari</string>
+    <string name="email_student">fani.aghistiya.lestr@gmail.com</string>
+</resources>
